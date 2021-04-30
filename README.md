@@ -1,4 +1,4 @@
-# Booleans and Comparisons
+# Booleans
 
 ## Objectives
 
